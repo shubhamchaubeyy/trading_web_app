@@ -1,0 +1,12 @@
+.authContainer{
+    background-image:url( "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09PWn_r4UKQHJbVfrtLyMVMl7VG_8nGL4BQ&s");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-blure{
+    backdrop-filter: blur(10px);
+}
